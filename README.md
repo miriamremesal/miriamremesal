@@ -1,4 +1,4 @@
-### Hi, I'm Miriam 👋👩‍💻
+## Hi, I'm Miriam 👋👩‍💻
 
 - 🔭 I’m currently working on Junior Fullstack Developer on Factoría F5
 - 👩‍🎓 I'm Web Application Development student (Certificate of Higher Education)
@@ -9,3 +9,9 @@
 - 💼 I'm looking for a company that allows me to continue learning while I develop and I can contribute my skills, knowledge, enthusiasm and energy
 - 📫 How to reach me: miriamremesal@gmail.com
 - ➕ If you think we can make a good team don't hesitate to contact me, regards!
+
+### Connect with me: https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/
+
+### Languages:
+
+### Tools:
