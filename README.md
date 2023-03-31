@@ -13,11 +13,7 @@
 - ➕ If you think we can make a good team don't hesitate to contact me, regards! ![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
 
 
-### Connect with me:
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" />&nbsp;
-
-
-<a href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="carlos salvador díaz" height="40" width="40" /></a>
+### Connect with me: <a href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="carlos salvador díaz" height="40" width="40" /></a>
 
 
 
