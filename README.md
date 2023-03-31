@@ -1,5 +1,6 @@
 ## Hi, I'm Miriam 👋🤸‍♀️
 
+![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
 
 ### Fullstack Web Developer Junior 💻 
 
@@ -15,6 +16,7 @@
 
 ### Connect with me: <a href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="carlos salvador díaz" height="40" width="40" /></a>
 
+![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
 
 
 ### ⚙️ Technologies stack:
