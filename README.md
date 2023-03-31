@@ -1,6 +1,6 @@
 ## Hi, I'm Miriam 👋👩‍💻
 
-- 🔭 I’m currently working on Junior Fullstack Developer on Factoría F5
+Fullstack Web Developer Junior 
 - 👩‍🎓 I'm Web Application Development student (Certificate of Higher Education)
 - ⚡ Agile methodologies such as Scrum, active pedagogy and front, back and organizational technologies
 - 🌍 I love languages (English, Italian, Spanish, French..) and traveling, I've been to many different places (New York, Czech Republic, Italy, United Kingdom, Greece..)
@@ -15,3 +15,6 @@
 ### Languages:
 
 ### Tools:
+
+
+![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
