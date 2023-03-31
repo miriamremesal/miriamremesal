@@ -2,7 +2,7 @@
 
 Fullstack Web Developer Junior 💻
 
-![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 240px;"><a ![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)></a></p>
 
 - 👩‍🎓 I'm Web Application Development student (Certificate of Higher Education)
 - ⚡ Agile methodologies such as Scrum, active pedagogy and front, back and organizational technologies
