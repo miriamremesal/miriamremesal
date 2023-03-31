@@ -14,10 +14,10 @@
 
 
 ### Connect with me:
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40" href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" />&nbsp;
 
 
-<a href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
+<a href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="carlos salvador díaz" height="40" width="40" /></a>
 
 
 
