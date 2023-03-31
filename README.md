@@ -1,5 +1,6 @@
 ## Hi, I'm Miriam 👋🤸‍♀️
 
+
 ### Fullstack Web Developer Junior 💻 
 
 - 👩‍🎓 I'm Web Application Development student (Certificate of Higher Education)
@@ -9,9 +10,14 @@
 - 🌱 I'm an ambitious and curious person, I love being in continuous learning
 - 💼 I'm looking for a company that allows me to continue learning while I develop and I can contribute my skills, knowledge, enthusiasm and energy
 - 📫 How to reach me: miriamremesal@gmail.com
-- ➕ If you think we can make a good team don't hesitate to contact me, regards! <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40" href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" />&nbsp;
+- ➕ If you think we can make a good team don't hesitate to contact me, regards! ![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
 
-### Connect with me: https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/ ![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
+
+### Connect with me: https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40" href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" />&nbsp;
+
+[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/)
+
+
 
 ### ⚙️ Technologies stack:
 <div>
