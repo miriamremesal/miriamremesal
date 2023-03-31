@@ -1,6 +1,6 @@
 ## Hi, I'm Miriam 👋🤸‍♀️
 
-Fullstack Web Developer Junior 💻 ![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
+### Fullstack Web Developer Junior 💻 
 
 - 👩‍🎓 I'm Web Application Development student (Certificate of Higher Education)
 - ⚡ Agile methodologies such as Scrum, active pedagogy and front, back and organizational technologies
@@ -9,14 +9,34 @@ Fullstack Web Developer Junior 💻 ![mimi](https://user-images.githubuserconten
 - 🌱 I'm an ambitious and curious person, I love being in continuous learning
 - 💼 I'm looking for a company that allows me to continue learning while I develop and I can contribute my skills, knowledge, enthusiasm and energy
 - 📫 How to reach me: miriamremesal@gmail.com
-- ➕ If you think we can make a good team don't hesitate to contact me, regards!
+- ➕ If you think we can make a good team don't hesitate to contact me, regards! <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="HTML5" alt="HTML" width="40" height="40" href="https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/" />&nbsp;
 
-### Connect with me: https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/
+### Connect with me: https://www.linkedin.com/in/miriam-garc%C3%ADa-remesal-4560181a1/ ![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)
 
-### Languages:
+### ⚙️ Technologies stack:
+<div>
+<h4>Front-end:</h4>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;    
+</div>
 
-### Tools:
+<div>
+<h4>Back-end:</h4>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp;   
+</div>
 
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 240px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" align="right" data-canonical-src="![mimi](https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" target="_blank">
+
+### 🔨 Tools:
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
