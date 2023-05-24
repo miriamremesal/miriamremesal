@@ -1,4 +1,4 @@
-## Hi, I'm Miriam 👋🤸‍♀️
+## Hi, I'm Miriam 👋
 
 <img align="right" src="https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif" alt="gif" />
 
