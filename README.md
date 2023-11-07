@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/124665913/229083906-ee92a30e-e90c-4df7-8380-5b9063cb0fe4.gif" alt="gif" />
 
-### 💻 Fullstack Web Developer Junior
+### 💻 Fullstack Web Developer Junior (Google x Factoría F5 Bootcamp)
 
 - 👩‍🎓 I'm Web Application Development student (Certificate of Higher Education)
 - ⚡ Agile Methodologies (Scrum) and Active Pedagogy
@@ -23,21 +23,27 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" **alt="Node" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;    
 </div>
 
 <div>
 <h4>Back-end:</h4>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/tree/master/icons/python" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/tree/master/icons/nodejs" title="NodeJS" **alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" **alt="Node" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;  
 </div>
 
 
 ### 🔨 Tools:
 <div>
+<img src="https://github.com/devicons/devicon/tree/master/icons/docker" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>
